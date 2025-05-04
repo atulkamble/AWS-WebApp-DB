@@ -6,7 +6,7 @@ app.use(express.json());
 const db = mysql.createConnection({
   host: 'your-rds-endpoint',
   user: 'admin',
-  password: 'yourpassword',
+  password: 'AtulKamble5',
   database: 'myappdb'
 });
 
