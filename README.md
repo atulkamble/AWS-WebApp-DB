@@ -173,12 +173,3 @@ git push -u origin main
 
 ---
 
-## 🧪 Additional Enhancements:
-
-* Add Docker support and deploy using ECS
-* Add SSL via Let's Encrypt
-* Add CI/CD via CodePipeline or GitHub Actions
-
----
-
-Would you like a version of this using Docker or Terraform for infrastructure?
