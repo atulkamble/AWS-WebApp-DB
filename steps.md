@@ -57,3 +57,23 @@ defaults
 2. username, password, endpoint, 3306-SG-Inbound
 3. Connect
 
+   ```
+   // notedown endpoint and update it in code 
+```
+myappdb.c3iuq8u6iyy3.us-east-1.rds.amazonaws.com
+```
+
+```
+-- Run this on RDS via MySQL Workbench or CLI
+CREATE DATABASE myappdb;
+USE myappdb;
+
+CREATE TABLE users (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(100)
+);
+
+INSERT INTO users (name) VALUES ('Atul'), ('John Doe');
+```
+   ```
+
