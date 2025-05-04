@@ -4,7 +4,7 @@ const app = express();
 app.use(express.json());
 
 const db = mysql.createConnection({
-  host: 'your-rds-endpoint',
+  host: 'myappdb.c3iuq8u6iyy3.us-east-1.rds.amazonaws.com',
   user: 'admin',
   password: 'AtulKamble5',
   database: 'myappdb'
