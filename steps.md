@@ -35,9 +35,10 @@ nvm current # Should print "v22.15.0".
 npm -v # Should print "10.9.2".
 
 ```
+```
 node -v
 npm -v
-
+```
 
 3. 
 ```
