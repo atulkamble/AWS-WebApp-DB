@@ -51,4 +51,9 @@ cd AWS-WebApp-DB/
 sudo npm install express --save
 node app.js 
 ```
+# On RDS | Mysql server
+1. create database >> mysql >> community set up >> basic >> endpoint - public 
+defaults 
+2. username, password, endpoint, 3306-SG-Inbound
+3. Connect
 
