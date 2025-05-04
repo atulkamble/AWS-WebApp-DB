@@ -1,4 +1,4 @@
-Here’s a complete **AWS Web App with Database Connectivity Project** setup — including steps, architecture, and code.
+**AWS Web App with Database Connectivity Project** setup — including steps, architecture, and code.
 
 ---
 
