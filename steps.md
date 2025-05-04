@@ -14,7 +14,7 @@ sudo yum install git -y
 git --version
 ```
 
-// installn node js
+// install node js
 
 # Download and install nvm:
 ```
